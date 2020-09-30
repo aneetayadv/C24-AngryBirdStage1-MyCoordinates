@@ -1,2 +1,2 @@
-# C24-AngryBirdStage1-MyCoordinates
-Top 2 log sliding
+# p5.play-boilerplate
+Boiler plate for p5.play
